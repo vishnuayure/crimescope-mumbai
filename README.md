@@ -100,18 +100,10 @@ Created charts and analytical reports using Matplotlib and Seaborn. Developed in
 ```
 CrimeScope-Mumbai/
 │
-├── data/                 Raw and processed datasets
-├── sql/                  SQL scripts for querying and aggregation
-├── notebooks/            Jupyter notebooks for EDA and modeling
-├── visuals/              Matplotlib/Seaborn charts and exported images
-├── powerbi/              Power BI dashboard files (.pbix)
-├── models/               Saved predictive models
-├── reports/              Analytical reports and summaries
+├── dataset/                 Raw and processed datasets
+├── eda.ipynb
 └── README.md
 ```
-
-Adjust this structure to match the actual folder layout of the repository.
-
 ---
 
 ## Getting Started
